@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "text": "Este é um texto para ser resumido.",
+    "summary": "Resumo da tarefa"
+  },
+  {
+    "id": 2,
+    "text": "oi.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 3,
+    "text": "oi.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 4,
+    "text": "koe.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 5,
+    "text": "koe.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 6,
+    "text": "Bom dia.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 7,
+    "text": "Bom dia.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 8,
+    "text": "Bom dia.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 9,
+    "text": "Bom dia.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 10,
+    "text": "Bom dia.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 11,
+    "text": "Bom dia.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 12,
+    "text": "hello.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 13,
+    "text": "hello.",
+    "summary": "Este é um resumo fixo para o texto fornecido."
+  },
+  {
+    "id": 14,
+    "text": "hello.",
+    "summary": "Resumo da tarefa"
+  },
+  {
+    "id": 15,
+    "text": "Bom dia.",
+    "summary": "Resumo da tarefa"
+  },
+  {
+    "id": 16,
+    "text": "Bom dia.",
+    "summary": ""
+  },
+  {
+    "id": 17,
+    "text": "Bom dia.",
+    "summary": ""
+  },
+  {
+    "id": 18,
+    "text": "Bom dia, como você está?",
+    "summary": ""
+  },
+  {
+    "id": 19,
+    "text": "Bom dia, como você está?",
+    "summary": ""
+  },
+  {
+    "id": 20,
+    "text": "Bom dia, como você está?",
+    "summary": ""
+  },
+  {
+    "id": 21,
+    "text": "Bom dia, como você está?",
+    "summary": ""
+  }
+]
